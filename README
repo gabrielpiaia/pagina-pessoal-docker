@@ -24,7 +24,7 @@ ALTERAR ID!! VER COM "DOCKER IMAGES" :
 docker image tag 80c9dfc533b3 g4br13lfp/pagina-pessoal:v1.4
 
 Subir imagem:
-docker push g4br13lfp/pagina-pessoal:v1.4
+docker push g4br13lfp/pagina-pessoal:v1.5
 
 Baixar imagem:
 docker pull g4br13lfp/pagina-pessoal:v1.2

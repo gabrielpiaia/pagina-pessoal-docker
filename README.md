@@ -2,6 +2,11 @@
 ## Descrição
 Este repositório contém a implementação da minha página pessoal como uma imagem Docker. Isso permite fácil implantação e gerenciamento da aplicação em qualquer ambiente que suporte Docker. O uso de contêineres Docker garante que a aplicação funcione da mesma forma, independentemente do sistema operacional ou configuração da máquina host.
 
+
+
+
+```
+
 versionar imagens:
 docker build -t app:v1.0.0
 docker build -t pagina pessoal:v1.0 .
@@ -66,3 +71,5 @@ services:
     image: g4br13lfp/pagina-pessoal:v1.3
     ports:
       - "8080:8080"
+
+```

@@ -28,11 +28,12 @@ O **Nginx**, dentro de um container **Docker**, serve a aplicação de forma rá
 
 ```bash
 docker-compose up
-
-
-
 ```
 
+
+
+## COMANDOS ÚTEIS:
+```
 versionar imagens:
 docker build -t app:v1.0.0
 docker build -t pagina pessoal:v1.0 .

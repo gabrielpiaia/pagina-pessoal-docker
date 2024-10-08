@@ -1,10 +1,7 @@
-
-## Descrição
-Este repositório contém a implementação da minha página pessoal como uma imagem Docker. Isso permite fácil implantação e gerenciamento da aplicação em qualquer ambiente que suporte Docker. O uso de contêineres Docker garante que a aplicação funcione da mesma forma, independentemente do sistema operacional ou configuração da máquina host.
-
 # Página Pessoal de Gabriel Piaia
 
-Este repositório contém o código-fonte da minha página pessoal, desenvolvida com foco em responsividade e performance. A aplicação está configurada para rodar em um ambiente **Docker**, utilizando **Nginx** como servidor web.
+Este repositório contém a implementação da minha página pessoal como uma imagem Docker. Isso permite fácil implantação e gerenciamento da aplicação em qualquer ambiente que suporte Docker. O uso de contêineres Docker garante que a aplicação funcione da mesma forma, independentemente do sistema operacional ou configuração da máquina host.
+A aplicação está configurada para rodar em um ambiente **Docker**, utilizando **Nginx** como servidor web.
 
 ## Tecnologias Utilizadas
 

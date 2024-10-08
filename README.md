@@ -4,14 +4,8 @@ Este repositório contém a implementação da minha página pessoal como uma im
 A aplicação está configurada para rodar em um ambiente **Docker**, utilizando **Nginx** como servidor web.
 
 ## Tecnologias Utilizadas
-
-- **HTML**: Estrutura da página.
-- **CSS**: Estilização e responsividade.
-- **JavaScript**: Funcionalidades dinâmicas (como menu responsivo).
 - **Nginx**: Servidor web eficiente.
 - **Docker**: Containerização da aplicação.
-- **Bootstrap Icons**: Ícones personalizados.
-- **Google Fonts**: Tipografia customizada.
 
 ## Nginx e Docker
 

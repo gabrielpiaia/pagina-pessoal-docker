@@ -2,6 +2,35 @@
 ## Descrição
 Este repositório contém a implementação da minha página pessoal como uma imagem Docker. Isso permite fácil implantação e gerenciamento da aplicação em qualquer ambiente que suporte Docker. O uso de contêineres Docker garante que a aplicação funcione da mesma forma, independentemente do sistema operacional ou configuração da máquina host.
 
+# Página Pessoal de Gabriel Piaia
+
+Este repositório contém o código-fonte da minha página pessoal, desenvolvida com foco em responsividade e performance. A aplicação está configurada para rodar em um ambiente **Docker**, utilizando **Nginx** como servidor web.
+
+## Tecnologias Utilizadas
+
+- **HTML**: Estrutura da página.
+- **CSS**: Estilização e responsividade.
+- **JavaScript**: Funcionalidades dinâmicas (como menu responsivo).
+- **Nginx**: Servidor web eficiente.
+- **Docker**: Containerização da aplicação.
+- **Bootstrap Icons**: Ícones personalizados.
+- **Google Fonts**: Tipografia customizada.
+
+## Nginx e Docker
+
+O **Nginx**, dentro de um container **Docker**, serve a aplicação de forma rápida e segura, garantindo:
+- **Desempenho otimizado**: Cache e compressão para carregamento mais rápido.
+- **Segurança**: Proteção de informações sensíveis e mitigação de vulnerabilidades.
+- **Escalabilidade**: Capacidade de gerenciar múltiplas conexões de forma eficiente.
+
+## Como Executar
+
+1. Instale o Docker.
+2. Clone este repositório.
+3. Execute o comando abaixo para subir o container:
+
+```bash
+docker-compose up
 
 
 
